@@ -1,10 +1,60 @@
-These fields contain serialized list structures and will be transformed into bridge tables during schema normalization.
-[
- "indications",
- "interventions_drugs",
- "drugs_datalake",
- "main_technologies",
- "specific_technologies",
- "target_names",
- "target_abbreviations"
-]
+# Analytical Schema Design
+
+## Trial Table
+
+One row per trial.
+
+Fields:
+
+- trial_id
+- nct_id
+- phase
+- recruitment_status
+- enrollment
+- dates
+- derived features
+
+---
+
+## Trial Indication Bridge
+
+One row per indication per trial.
+
+Columns:
+
+- trial_id
+- indication
+
+---
+
+## Trial Drug Bridge
+
+One row per drug per trial.
+
+Columns:
+
+- trial_id
+- drug_id
+- technology
+
+---
+
+## Trial Target Bridge
+
+One row per target per trial.
+
+Columns:
+
+- trial_id
+- target
+
+---
+
+## Derived Fields
+
+- phase_norm
+- outcome_category
+- duration_days
+- n_drugs
+- is_combination_therapy
+- has_checkpoint_inhibitor
