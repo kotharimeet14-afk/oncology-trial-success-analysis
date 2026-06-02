@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Outputs
+outputs/
+
+# Processed data
+data/processed/
+
+# OS files
+.DS_Store
+Thumbs.db
