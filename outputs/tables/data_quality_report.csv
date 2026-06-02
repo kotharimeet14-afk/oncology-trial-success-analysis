@@ -1,19 +1,19 @@
-column,dtype,missing_count,missing_pct,unique_values
-ID-datalake,int64,0,0.0,1000
-nct_id,object,0,0.0,1000
-brief_title,object,0,0.0,1000
-official_title,object,6,0.6,994
-phase,object,40,4.0,7
-recruitment_status,object,0,0.0,9
-start_date,datetime64[ns],5,0.5,693
-completion_date,datetime64[ns],52,5.2,600
-primary_completion_date,datetime64[ns],51,5.1,610
-enrollment,float64,26,2.6,253
-enrollment_type,object,44,4.4,2
-indications,object,0,0.0,463
-interventions_drugs,object,0,0.0,948
-drugs_datalake,object,0,0.0,846
-main_technologies,object,0,0.0,194
-specific_technologies,object,0,0.0,227
-target_names,object,0,0.0,663
-target_abbreviations,object,0,0.0,687
+column,dtype_raw,null_count_raw,null_pct_raw,null_count_clean,unique_values,known_issue,severity
+ID-datalake,int64,0,0.0,0,1000,,None
+nct_id,object,0,0.0,0,1000,,None
+brief_title,object,0,0.0,0,1000,,None
+official_title,object,6,0.6,6,994,,None
+phase,object,40,4.0,40,7,40 nulls (4.0%) → UNCLASSIFIED in phase_norm,Major
+recruitment_status,object,0,0.0,0,9,121 UNKNOWN (12.1%) — unclassifiable as resolved or censored,Critical
+start_date,datetime64[ns],5,0.5,5,693,,None
+completion_date,datetime64[ns],52,5.2,52,600,52 nulls (5.2%); 1 inversion vs primary_completion_date,Major
+primary_completion_date,datetime64[ns],51,5.1,51,610,51 nulls (5.1%),Minor
+enrollment,float64,26,2.6,26,253,26 nulls (2.6%) including 20 COMPLETED trials,Major
+enrollment_type,object,44,4.4,44,2,44 nulls (4.4%) → HISTORICAL for pre-2005 trials,Major
+indications,object,0,0.0,0,463,122 trials (12.2%) contain within-list duplicate entries,Major
+interventions_drugs,object,0,0.0,0,948,237 non-pharma items; 365 count mismatches vs drugs_datalake,Major
+drugs_datalake,object,0,0.0,0,846,,None
+main_technologies,object,0,0.0,0,194,,None
+specific_technologies,object,0,0.0,0,227,,None
+target_names,object,0,0.0,0,663,"Unicode corruption (17 chars, 2 patterns) — repaired in T-03",Major
+target_abbreviations,object,0,0.0,0,687,"Unicode corruption (185 chars, 8 patterns) — repaired in T-03",Critical
