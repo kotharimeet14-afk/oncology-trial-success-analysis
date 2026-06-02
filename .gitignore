@@ -13,9 +13,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Outputs
-outputs/
-
 # Processed data
 data/processed/
 
