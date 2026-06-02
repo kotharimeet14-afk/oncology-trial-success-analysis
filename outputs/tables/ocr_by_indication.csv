@@ -1,0 +1,332 @@
+indication,n_resolved,n_completed,ocr,small_sample,suppressed
+Solid Tumors,49,40,0.816,False,False
+Breast Cancer,48,35,0.729,False,False
+Non-Small Cell Lung Cancer,42,26,0.619,False,False
+Multiple Myeloma,30,15,0.5,False,False
+Pancreatic Cancer,28,21,0.75,False,False
+Ovarian Cancer,21,17,0.81,False,False
+Hematology,21,16,0.762,False,False
+Myelodysplastic Syndrome,21,16,0.762,False,False
+Epithelial Neoplasm,21,13,0.619,False,False
+Acute Myeloid Leukemia,21,12,0.571,False,False
+Colorectal Cancer,20,18,0.9,False,False
+Leukemia,20,18,0.9,False,False
+Digestive System Neoplasm,20,12,0.6,False,False
+Cancer,19,16,0.842,False,False
+Head and Neck Neoplasm,19,12,0.632,False,False
+Non-Hodgkin Lymphoma,17,15,0.882,False,False
+Prostate Cancer,17,10,0.588,False,False
+Thoracic Neoplasm,14,10,0.714,False,False
+Gastric Cancer,14,9,0.643,False,False
+Male Reproductive System Neoplasm,13,12,0.923,False,False
+Diffuse Large B-Cell Lymphoma,12,11,0.917,False,False
+Acute Lymphoblastic Leukemia,12,7,0.583,False,False
+Connective and Soft Tissue Neoplasm,11,9,0.818,False,False
+Anemia,10,10,1.0,False,False
+Neoplasms,10,9,0.9,False,False
+Skin Melanoma,10,8,0.8,False,False
+Central Nervous System Neoplasm,10,7,0.7,False,False
+Breast Neoplasm,9,9,1.0,True,True
+Cervical Cancer,9,7,0.778,True,True
+Glioblastoma,9,7,0.778,True,True
+Liver Cancer,9,7,0.778,True,True
+Chronic Lymphocytic Leukemia,9,6,0.667,True,True
+Bladder Cancer,9,5,0.556,True,True
+Renal Cell Carcinoma,9,5,0.556,True,True
+Esophageal Cancer,8,7,0.875,True,True
+Colon Carcinoma,8,6,0.75,True,True
+Hepatocellular Carcinoma,8,5,0.625,True,True
+Myeloproliferative Neoplasm,7,7,1.0,True,True
+Hodgkin Lymphoma,7,6,0.857,True,True
+Castration-Resistant Prostate Carcinoma,7,5,0.714,True,True
+Head and Neck Squamous Cell Carcinoma,7,4,0.571,True,True
+Chronic Myeloid Leukemia,6,6,1.0,True,True
+Neuroendocrine Tumors,6,6,1.0,True,True
+Brain Metastasis,6,5,0.833,True,True
+Female Reproductive System Neoplasm,6,5,0.833,True,True
+Kidney Wilms Tumor,6,5,0.833,True,True
+Plasma Cell Neoplasm,6,5,0.833,True,True
+Endometrial Cancer,5,5,1.0,True,True
+Triple-Negative Breast Cancer,5,4,0.8,True,True
+Tumors,5,4,0.8,True,True
+Fallopian Tube Cancer,5,3,0.6,True,True
+Sarcoma,5,3,0.6,True,True
+Sickle Cell Disease,5,3,0.6,True,True
+Urothelial Carcinoma,5,2,0.4,True,True
+Actinic Keratosis,4,4,1.0,True,True
+HER2-Positive Breast Cancer,4,4,1.0,True,True
+Osteosarcoma,4,4,1.0,True,True
+Rectal Carcinoma,4,4,1.0,True,True
+Anal Cancer,4,3,0.75,True,True
+Burkitt Lymphoma,4,3,0.75,True,True
+Graft Versus Host Disease,4,3,0.75,True,True
+Nasopharyngeal Cancer,4,3,0.75,True,True
+Uveal Melanoma,4,3,0.75,True,True
+Malignant Melanoma,4,2,0.5,True,True
+Metastatic Melanoma,4,2,0.5,True,True
+Peritoneal and Retroperitoneal Neoplasm,4,2,0.5,True,True
+Soft Tissue Sarcoma,4,2,0.5,True,True
+Adult T-Cell Leukemia/Lymphoma,4,1,0.25,True,True
+Anaplastic Astrocytoma,3,3,1.0,True,True
+Intraepithelial Neoplasia,3,3,1.0,True,True
+Lung Adenocarcinoma,3,3,1.0,True,True
+Non-Clear Cell Renal Cell Carcinoma,3,3,1.0,True,True
+Primary Myelofibrosis,3,3,1.0,True,True
+B-Cell Non-Hodgkin Lymphoma,3,2,0.667,True,True
+Carcinoma of Unknown Primary,3,2,0.667,True,True
+Central Nervous System Embryonal Tumor,3,2,0.667,True,True
+Gastroesophageal Junction Cancer,3,2,0.667,True,True
+Kidney Cancer,3,2,0.667,True,True
+Lip and Oral Cavity Cancer,3,2,0.667,True,True
+Myeloid Neoplasm,3,2,0.667,True,True
+Neoplasm Metastasis,3,2,0.667,True,True
+Oropharyngeal Cancer,3,2,0.667,True,True
+Primary Cutaneous T-Cell Non-Hodgkin Lymphoma,3,2,0.667,True,True
+Primary Peritoneal Cancer,3,2,0.667,True,True
+Small Lymphocytic Lymphoma,3,2,0.667,True,True
+Bile Duct Cancer,2,2,1.0,True,True
+Chronic Graft Versus Host Disease,2,2,1.0,True,True
+Chronic Kidney Disease,2,2,1.0,True,True
+Eye Neoplasm,2,2,1.0,True,True
+Germ Cell Tumor,2,2,1.0,True,True
+Glioma,2,2,1.0,True,True
+HIV Infection,2,2,1.0,True,True
+High Grade B-Cell Lymphoma,2,2,1.0,True,True
+High-Grade Glioma,2,2,1.0,True,True
+Hormone Receptor-Positive Breast Cancer,2,2,1.0,True,True
+Malignant Tumor,2,2,1.0,True,True
+Medulloblastoma,2,2,1.0,True,True
+Mucositis,2,2,1.0,True,True
+Rhabdomyosarcoma,2,2,1.0,True,True
+Skin Basal Cell Carcinoma,2,2,1.0,True,True
+Thyroid Cancer,2,2,1.0,True,True
+AML with maturation,2,1,0.5,True,True
+Biliary Tract Cancer,2,1,0.5,True,True
+Breast Ductal Carcinoma In Situ,2,1,0.5,True,True
+Clear Cell Renal Cell Carcinoma,2,1,0.5,True,True
+Ewing Sarcoma,2,1,0.5,True,True
+Extranodal Marginal Zone Lymphoma,2,1,0.5,True,True
+Grade 1 Follicular Lymphoma,2,1,0.5,True,True
+Grade 2 Follicular Lymphoma,2,1,0.5,True,True
+Grade 3 Follicular Lymphoma,2,1,0.5,True,True
+Hairy Cell Leukemia,2,1,0.5,True,True
+Hypopharyngeal Cancer,2,1,0.5,True,True
+Laryngeal Cancer,2,1,0.5,True,True
+Malignant Neoplasm,2,1,0.5,True,True
+Mantle Cell Lymphoma,2,1,0.5,True,True
+Marginal Zone Lymphoma,2,1,0.5,True,True
+Mycosis Fungoides and Sezary Syndrome,2,1,0.5,True,True
+Nodal Marginal Zone Lymphoma,2,1,0.5,True,True
+Peripheral Neuropathy,2,1,0.5,True,True
+Peripheral Primitive Neuroectodermal Tumor,2,1,0.5,True,True
+Recurrent Adult Diffuse Mixed Cell Lymphoma,2,1,0.5,True,True
+Recurrent Adult Diffuse Small Cleaved Cell Lymphoma,2,1,0.5,True,True
+Salivary Gland Cancer,2,1,0.5,True,True
+Small Cell Lung Cancer,2,1,0.5,True,True
+Splenic Marginal Zone Lymphoma,2,1,0.5,True,True
+T-Cell Large Granular Lymphocyte Leukemia,2,1,0.5,True,True
+Urinary System Neoplasm,2,1,0.5,True,True
+Waldenstrom Macroglobulinemia,2,1,0.5,True,True
+Bronchopulmonary Dysplasia,2,0,0.0,True,True
+T-Cell Non-Hodgkin Lymphoma,2,0,0.0,True,True
+Abdominal Neoplasms,1,1,1.0,True,True
+Acute Chest Syndrome,1,1,1.0,True,True
+Acute Leukemia,1,1,1.0,True,True
+Adrenal Gland Pheochromocytoma,1,1,1.0,True,True
+Advanced Stage Cancer,1,1,1.0,True,True
+Allogeneic Stem Cell Transplantation,1,1,1.0,True,True
+Alveolar Soft Part Sarcoma,1,1,1.0,True,True
+Analgesia,1,1,1.0,True,True
+Anastomotic Leak,1,1,1.0,True,True
+Androgen-insensitive Prostate Cancer,1,1,1.0,True,True
+Aplastic Anemia,1,1,1.0,True,True
+Atypical Hemolytic Uremic Syndrome,1,1,1.0,True,True
+Break Through Pain,1,1,1.0,True,True
+Breast Paget Disease,1,1,1.0,True,True
+Bronchopulmonary Dysplasia (BPD),1,1,1.0,True,True
+COVID-19,1,1,1.0,True,True
+Cancer Patients First-ever Acute Ischemic Stroke,1,1,1.0,True,True
+Cancer-associated Thrombosis,1,1,1.0,True,True
+Cancers Expressing HER-2 and/or CEA,1,1,1.0,True,True
+Cardiovascular Neoplasm,1,1,1.0,True,True
+Chondrosarcoma,1,1,1.0,True,True
+Chronic Kidney Disease Requiring Chronic Dialysis,1,1,1.0,True,True
+Chronic Pancreatitis,1,1,1.0,True,True
+Chronic Renal Failure,1,1,1.0,True,True
+Classic Hodgkin Lymphoma,1,1,1.0,True,True
+Clear Cell Sarcoma,1,1,1.0,True,True
+"Complication,Postoperative",1,1,1.0,True,True
+Congenital Amegakaryocytic Thrombocytopenia,1,1,1.0,True,True
+Congenital Hyperinsulinism,1,1,1.0,True,True
+Cytomegaloviral Infection,1,1,1.0,True,True
+Diffuse Intrinsic Pontine Glioma,1,1,1.0,True,True
+Elderly,1,1,1.0,True,True
+Endocrine Neoplasm,1,1,1.0,True,True
+Ependymoma,1,1,1.0,True,True
+Epidural Anesthesia,1,1,1.0,True,True
+Erectile Dysfunction,1,1,1.0,True,True
+Esophageal Squamous Cell Carcinoma,1,1,1.0,True,True
+Essential Thrombocythemia,1,1,1.0,True,True
+Exercise-Induced Anemia,1,1,1.0,True,True
+Extensive Stage Lung Small Cell Carcinoma,1,1,1.0,True,True
+Follicular Lymphoma,1,1,1.0,True,True
+Gastrointestinal Stromal Tumor,1,1,1.0,True,True
+Genitourinary System Neoplasm,1,1,1.0,True,True
+Gestational Trophoblastic Neoplasia,1,1,1.0,True,True
+Gliosarcoma,1,1,1.0,True,True
+HER-2,1,1,1.0,True,True
+HER2-Negative Breast Cancer,1,1,1.0,True,True
+HLA-A*0201 Positive Cells Present,1,1,1.0,True,True
+"Healthy, no Evidence of Disease",1,1,1.0,True,True
+Hemophagocytic Lymphohistiocytosis,1,1,1.0,True,True
+Hepatectomy,1,1,1.0,True,True
+Hepatitis C,1,1,1.0,True,True
+Hip Fractures,1,1,1.0,True,True
+Hormonal Cycling,1,1,1.0,True,True
+Idiopathic Thrombocytopenic Purpura,1,1,1.0,True,True
+Indocyanine Green,1,1,1.0,True,True
+Infectious Disorder,1,1,1.0,True,True
+Inflammation,1,1,1.0,True,True
+Internal Radiation,1,1,1.0,True,True
+Intestinal T-Cell Lymphoma,1,1,1.0,True,True
+Iron-Deficiency Anemia,1,1,1.0,True,True
+Kaposi sarcoma,1,1,1.0,True,True
+Kidney Disease,1,1,1.0,True,True
+Leiomyosarcoma,1,1,1.0,True,True
+Long-term Outcome,1,1,1.0,True,True
+Lung Non-Squamous Non-Small Cell Carcinoma,1,1,1.0,True,True
+Lymphocytic Colitis,1,1,1.0,True,True
+"Lymphoma, Low-Grade",1,1,1.0,True,True
+Male Breast Cancer,1,1,1.0,True,True
+Mesothelioma,1,1,1.0,True,True
+"Metastases, Neoplasm",1,1,1.0,True,True
+Muscle Invasive Bladder Cancer,1,1,1.0,True,True
+Neuroendocrine Carcinoma,1,1,1.0,True,True
+Neurofibroma,1,1,1.0,True,True
+Neurofibromatosis,1,1,1.0,True,True
+Neurotoxicity,1,1,1.0,True,True
+Non-Dialysis-Dependent Chronic Kidney Disease,1,1,1.0,True,True
+Nonneoplastic Condition,1,1,1.0,True,True
+Opportunistic Infections,1,1,1.0,True,True
+Oral Complications,1,1,1.0,True,True
+Oral Complications of Radiation Therapy,1,1,1.0,True,True
+Ovarian Germ Cell Tumor,1,1,1.0,True,True
+PI3K Pathway Inhibition,1,1,1.0,True,True
+"Pain, Postoperative",1,1,1.0,True,True
+Pancreatic Diseases,1,1,1.0,True,True
+Paraganglioma,1,1,1.0,True,True
+Parathyroid Cancer,1,1,1.0,True,True
+Parkinson Disease,1,1,1.0,True,True
+Philadelphia Chromosome Positive Acute Lymphocytic Leukemia,1,1,1.0,True,True
+Physical Performance,1,1,1.0,True,True
+Pineoblastoma,1,1,1.0,True,True
+Plasmacytoma,1,1,1.0,True,True
+Pleural Malignant Mesothelioma,1,1,1.0,True,True
+Postoperative Pain,1,1,1.0,True,True
+Pre-menopausal Breast Cancer,1,1,1.0,True,True
+Primary Amyloidosis,1,1,1.0,True,True
+Primary Hyperparathyroidism,1,1,1.0,True,True
+Rare Neoplasm,1,1,1.0,True,True
+Recurrence,1,1,1.0,True,True
+Recurrent Childhood Large Cell Lymphoma,1,1,1.0,True,True
+Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity,1,1,1.0,True,True
+Recurrent Lymphoepithelioma of the Oropharynx,1,1,1.0,True,True
+Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity,1,1,1.0,True,True
+Recurrent Neuroblastoma,1,1,1.0,True,True
+Refractory Autoimmune Cytopenia(s),1,1,1.0,True,True
+Relapsed Pediatric Solid Tumor,1,1,1.0,True,True
+"Renal Insufficiency, Chronic",1,1,1.0,True,True
+Respiratory System Neoplasm,1,1,1.0,True,True
+Rivaroxaban,1,1,1.0,True,True
+Sentinel Lymph Node,1,1,1.0,True,True
+Severe Aplastic Anemia,1,1,1.0,True,True
+Severe Aplastic Anemia (SAA),1,1,1.0,True,True
+Severe Congenital Neutropenia,1,1,1.0,True,True
+Skin Neoplasm,1,1,1.0,True,True
+Small Intestinal Cancer,1,1,1.0,True,True
+Sorafenib,1,1,1.0,True,True
+Surgery,1,1,1.0,True,True
+Surgical Resection,1,1,1.0,True,True
+T Lymphoblastic Lymphoma,1,1,1.0,True,True
+Testicular Germ Cell Cancer,1,1,1.0,True,True
+Testicular Non-Seminomatous Germ Cell Tumor,1,1,1.0,True,True
+Thrombotic Thrombocytopenic Purpura,1,1,1.0,True,True
+Thyroid Cancers That Contain the PAX8-PPARgamma Fusion Gene,1,1,1.0,True,True
+Thyroid Gland Papillary Carcinoma,1,1,1.0,True,True
+Tumor Positron-Emission Tomography,1,1,1.0,True,True
+Uterine Cancer,1,1,1.0,True,True
+Vaso-occlusive Crisis,1,1,1.0,True,True
+WHO Grade 3 Glioma,1,1,1.0,True,True
+AML with minimal differentiation,1,0,0.0,True,True
+AML without maturation,1,0,0.0,True,True
+Acral Lentiginous Melanoma,1,0,0.0,True,True
+Acute Erythroid Leukemia,1,0,0.0,True,True
+Acute Graft Versus Host Disease,1,0,0.0,True,True
+Acute Megakaryoblastic Leukemia,1,0,0.0,True,True
+Acute Monocytic Leukemia,1,0,0.0,True,True
+Acute Myelomonocytic Leukemia,1,0,0.0,True,True
+Adenocarcinoma of the Ovaries,1,0,0.0,True,True
+Adult Supratentorial Primitive Neuroectodermal Tumor (PNET),1,0,0.0,True,True
+Advanced Gastrointestinal Carcinoma,1,0,0.0,True,True
+Anaplastic Large Cell Lymphoma,1,0,0.0,True,True
+Androgen Receptor Gene Overexpression,1,0,0.0,True,True
+"Anemia, Aplastic",1,0,0.0,True,True
+"Anemia, Sickle Cell",1,0,0.0,True,True
+Bacterial Vaginosis,1,0,0.0,True,True
+Brain Edema,1,0,0.0,True,True
+Chemotherapeutic Agent Toxicity,1,0,0.0,True,True
+Chronic Leukemia,1,0,0.0,True,True
+Contiguous Stage II Adult Diffuse Large Cell Lymphoma,1,0,0.0,True,True
+Contiguous Stage II Adult Diffuse Mixed Cell Lymphoma,1,0,0.0,True,True
+Contiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma,1,0,0.0,True,True
+Cord Blood Transplant,1,0,0.0,True,True
+Cytokine Release Syndrome,1,0,0.0,True,True
+Dedifferentiated Liposarcoma,1,0,0.0,True,True
+Diamond-Blackfan Anemia,1,0,0.0,True,True
+Epstein-Barr Virus Infection,1,0,0.0,True,True
+Fanconi Anemia,1,0,0.0,True,True
+"Follicular Helper T-Cell Lymphoma, Angioimmunoblastic-Type",1,0,0.0,True,True
+Hemoglobinopathies,1,0,0.0,True,True
+Hypercalcemia of Malignancy,1,0,0.0,True,True
+Immune Effector Cell Associated Neurotoxicity Syndrome,1,0,0.0,True,True
+Inherited Metabolic Disease,1,0,0.0,True,True
+Intrahepatic Cholangiocarcinoma,1,0,0.0,True,True
+Lymphedema,1,0,0.0,True,True
+Malignant Epithelial Mesothelioma,1,0,0.0,True,True
+Metastatic NSCLC,1,0,0.0,True,True
+Mismatch Repair Proficient,1,0,0.0,True,True
+Musculoskeletal Complications,1,0,0.0,True,True
+Musculoskeletal Disease,1,0,0.0,True,True
+Noncontiguous Stage II Adult Diffuse Large Cell Lymphoma,1,0,0.0,True,True
+Noncontiguous Stage II Adult Diffuse Mixed Cell Lymphoma,1,0,0.0,True,True
+Noncontiguous Stage II Adult Diffuse Small Cleaved Cell Lymphoma,1,0,0.0,True,True
+Osteopetrosis,1,0,0.0,True,True
+PTEN Gene Mutation,1,0,0.0,True,True
+PTEN Hamartoma Syndrome,1,0,0.0,True,True
+PTEN Hamartoma Tumor Syndrome,1,0,0.0,True,True
+Periventricular Leukomalacia,1,0,0.0,True,True
+Philadelphia chromosome-negative acute lymphoblastic leukemia,1,0,0.0,True,True
+Plasma Cell Leukemia,1,0,0.0,True,True
+Polycythemia Vera,1,0,0.0,True,True
+Post-Transplant Lymphoproliferative Disorder,1,0,0.0,True,True
+Premature Birth,1,0,0.0,True,True
+Primary Cutaneous B-Cell Non-Hodgkin Lymphoma,1,0,0.0,True,True
+Primary Immune Thrombocytopenia,1,0,0.0,True,True
+Primary Immunodeficiency,1,0,0.0,True,True
+Progressive Brain Metastases,1,0,0.0,True,True
+Sepsis,1,0,0.0,True,True
+Stage I Adult Diffuse Mixed Cell Lymphoma,1,0,0.0,True,True
+Stage I Adult Diffuse Small Cleaved Cell Lymphoma,1,0,0.0,True,True
+Stage III Adult Diffuse Large Cell Lymphoma,1,0,0.0,True,True
+Stage III Adult Diffuse Mixed Cell Lymphoma,1,0,0.0,True,True
+Stage III Adult Diffuse Small Cleaved Cell Lymphoma,1,0,0.0,True,True
+Stage IV Adult Diffuse Mixed Cell Lymphoma,1,0,0.0,True,True
+Stage IV Adult Diffuse Small Cleaved Cell Lymphoma,1,0,0.0,True,True
+Testicular Cancer,1,0,0.0,True,True
+Thalassemia,1,0,0.0,True,True
+Thoracic Surgery,1,0,0.0,True,True
+Thyroid Gland Medullary Carcinoma,1,0,0.0,True,True
+Untreated Childhood Supratentorial Primitive Neuroectodermal Tumor,1,0,0.0,True,True
+Vascular Thrombosis,1,0,0.0,True,True
+Venous Thromboembolism,1,0,0.0,True,True
+Warm Autoimmune Hemolytic Anemia,1,0,0.0,True,True
