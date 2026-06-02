@@ -1,0 +1,3 @@
+is_combination_therapy,n_resolved,n_completed,ocr,small_sample,suppressed
+False,310,225,0.726,False,False
+True,306,228,0.745,False,False

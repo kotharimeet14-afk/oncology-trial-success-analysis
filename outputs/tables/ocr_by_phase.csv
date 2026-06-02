@@ -1,0 +1,9 @@
+phase_norm,n_resolved,n_completed,ocr,small_sample,suppressed
+PHASE2,231,162,0.701,False,False
+PHASE1,176,133,0.756,False,False
+PHASE1/PHASE2,80,54,0.675,False,False
+PHASE3,71,57,0.803,False,False
+UNCLASSIFIED,26,20,0.769,False,False
+PHASE4,16,14,0.875,False,False
+PHASE2/PHASE3,9,7,0.778,True,True
+EARLY_PHASE1,7,6,0.857,True,True

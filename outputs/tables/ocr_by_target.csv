@@ -1,0 +1,300 @@
+target_abbreviation,n_resolved,n_completed,ocr,small_sample,suppressed
+TUBB1,94,72,0.766,False,False
+TYMS,59,47,0.797,False,False
+GR,45,34,0.756,False,False
+RNR,41,26,0.634,False,False
+TOP2,39,34,0.872,False,False
+EGFR,38,28,0.737,False,False
+VEGFR2,27,20,0.741,False,False
+CD20,25,18,0.72,False,False
+PD-1,24,16,0.667,False,False
+HER2,21,20,0.952,False,False
+c-Kit,21,17,0.81,False,False
+PDGFRβ,21,16,0.762,False,False
+DHFR,20,13,0.65,False,False
+VEGFR1,19,16,0.842,False,False
+VEGFR3,19,16,0.842,False,False
+VEGF-A,18,12,0.667,False,False
+DNA-directed DNA polymerase,17,14,0.824,False,False
+TOP1,16,14,0.875,False,False
+CSF-3R,14,13,0.929,False,False
+CRBN,14,10,0.714,False,False
+IKZF1,14,10,0.714,False,False
+IKZF3,14,10,0.714,False,False
+PDL1,14,8,0.571,False,False
+RET,13,9,0.692,False,False
+FLT3,12,9,0.75,False,False
+EPO receptor,10,10,1.0,False,False
+ER,10,7,0.7,False,False
+IL-6,10,7,0.7,False,False
+PI3Kα,10,7,0.7,False,False
+DNA polymerase III,10,6,0.6,False,False
+RNA polymerase II,10,6,0.6,False,False
+BCR-ABL1,10,5,0.5,False,False
+GART,10,5,0.5,False,False
+PDGFRα,9,8,0.889,False,False
+BRAF,9,7,0.778,False,False
+FGFR1,9,7,0.778,False,False
+IL-2,9,7,0.778,False,False
+TNF-α,9,7,0.778,False,False
+AR,9,6,0.667,False,False
+DNMT1,9,4,0.444,False,False
+CaN,8,8,1.0,False,False
+CK1α,8,6,0.75,False,False
+CRAF,8,6,0.75,False,False
+IFNγ,8,6,0.75,False,False
+PI3Kδ,8,4,0.5,False,False
+aromatase,8,4,0.5,False,False
+FGFR2,7,6,0.857,True,True
+FGFR3,7,6,0.857,True,True
+VEGFR,7,5,0.714,True,True
+Opioid receptors,6,6,1.0,True,True
+c-Met,6,6,1.0,True,True
+Bcl-2,6,5,0.833,True,True
+MEK1,6,5,0.833,True,True
+MEK2,6,5,0.833,True,True
+mTORC1,6,5,0.833,True,True
+mTORC2,6,5,0.833,True,True
+μ opioid receptor,6,5,0.833,True,True
+JAK2,5,5,1.0,True,True
+PARP1,5,5,1.0,True,True
+PARP2,5,5,1.0,True,True
+CSF-2R,5,4,0.8,True,True
+EGFR L858R,5,4,0.8,True,True
+EGFR-Ex19del,5,4,0.8,True,True
+GABAA receptor,5,4,0.8,True,True
+AGP1,5,3,0.6,True,True
+AGP2,5,3,0.6,True,True
+PI3Kβ,5,3,0.6,True,True
+PI3Kγ,5,3,0.6,True,True
+SALL4,5,3,0.6,True,True
+TNF,5,3,0.6,True,True
+DNMT3A,5,1,0.2,True,True
+DNMT3B,5,1,0.2,True,True
+HER4,4,4,1.0,True,True
+JAK1,4,4,1.0,True,True
+δ opioid receptor,4,4,1.0,True,True
+κ opioid receptor,4,4,1.0,True,True
+AKT,4,3,0.75,True,True
+Bone resorption factor,4,3,0.75,True,True
+CDK4,4,3,0.75,True,True
+CDK6,4,3,0.75,True,True
+FDPS,4,3,0.75,True,True
+IL-2R,4,3,0.75,True,True
+RTK,4,3,0.75,True,True
+SCN1A,4,3,0.75,True,True
+CSF-1R,4,2,0.5,True,True
+CTLA4,4,2,0.5,True,True
+Beta-tubulin,4,1,0.25,True,True
+CD3,4,1,0.25,True,True
+EphA2,4,1,0.25,True,True
+ASN,3,3,1.0,True,True
+COX-2,3,3,1.0,True,True
+Chk1,3,3,1.0,True,True
+FGFR4,3,3,1.0,True,True
+IMPDH,3,3,1.0,True,True
+PRKAB1,3,3,1.0,True,True
+SRC,3,3,1.0,True,True
+TLR7,3,3,1.0,True,True
+CD38,3,2,0.667,True,True
+COX,3,2,0.667,True,True
+GnRHR,3,2,0.667,True,True
+HDACs,3,2,0.667,True,True
+VEGF,3,2,0.667,True,True
+CYP17A1,3,1,0.333,True,True
+Protein-tyrosine kinases,3,1,0.333,True,True
+Ras,3,1,0.333,True,True
+SLAMF7,3,1,0.333,True,True
+FYN,3,0,0.0,True,True
+AXL,2,2,1.0,True,True
+BTK,2,2,1.0,True,True
+C5,2,2,1.0,True,True
+CD33,2,2,1.0,True,True
+CD52,2,2,1.0,True,True
+CLDN18.2,2,2,1.0,True,True
+Chk2,2,2,1.0,True,True
+FGFRs,2,2,1.0,True,True
+FasR,2,2,1.0,True,True
+IFNAR,2,2,1.0,True,True
+NMDA receptor,2,2,1.0,True,True
+PARP3,2,2,1.0,True,True
+PKC,2,2,1.0,True,True
+Phosphatidylserine,2,2,1.0,True,True
+Raf kinase,2,2,1.0,True,True
+SMO,2,2,1.0,True,True
+SSTR2,2,2,1.0,True,True
+STAT3,2,2,1.0,True,True
+TLR8,2,2,1.0,True,True
+TLR9,2,2,1.0,True,True
+TYMP,2,2,1.0,True,True
+Tie-2,2,2,1.0,True,True
+4-1BB,2,1,0.5,True,True
+80s ribosome,2,1,0.5,True,True
+ADRA2,2,1,0.5,True,True
+BRAF V600E,2,1,0.5,True,True
+Bacterial DNA gyrase,2,1,0.5,True,True
+C14DM,2,1,0.5,True,True
+CD19,2,1,0.5,True,True
+CD22,2,1,0.5,True,True
+CEA,2,1,0.5,True,True
+E7,2,1,0.5,True,True
+HIF-1α,2,1,0.5,True,True
+HPRT1,2,1,0.5,True,True
+LAG3,2,1,0.5,True,True
+P-gp,2,1,0.5,True,True
+PSMA,2,1,0.5,True,True
+TLR3,2,1,0.5,True,True
+TLR5,2,1,0.5,True,True
+TNSALP,2,1,0.5,True,True
+VDR,2,1,0.5,True,True
+c-Myc,2,1,0.5,True,True
+CD30,2,0,0.0,True,True
+FKBP12,2,0,0.0,True,True
+RARα,2,0,0.0,True,True
+SHP2,2,0,0.0,True,True
+p53,2,0,0.0,True,True
+5T4,1,1,1.0,True,True
+5α-reductase,1,1,1.0,True,True
+A1R,1,1,1.0,True,True
+A2bR,1,1,1.0,True,True
+ACVR1B,1,1,1.0,True,True
+ACVR2A,1,1,1.0,True,True
+AKT1,1,1,1.0,True,True
+AKT2,1,1,1.0,True,True
+AKT3,1,1,1.0,True,True
+ALDH2,1,1,1.0,True,True
+ALK,1,1,1.0,True,True
+ARG1,1,1,1.0,True,True
+Abl,1,1,1.0,True,True
+Ang1,1,1,1.0,True,True
+Ang2,1,1,1.0,True,True
+Aurora A,1,1,1.0,True,True
+Aurora B,1,1,1.0,True,True
+Bcl-XL,1,1,1.0,True,True
+CACNA2D1,1,1,1.0,True,True
+CACNA2D2,1,1,1.0,True,True
+CAIX,1,1,1.0,True,True
+CCKBR,1,1,1.0,True,True
+CD47,1,1,1.0,True,True
+CD7,1,1,1.0,True,True
+CD73,1,1,1.0,True,True
+CDA,1,1,1.0,True,True
+CDK9,1,1,1.0,True,True
+CEACAM1,1,1,1.0,True,True
+CK2,1,1,1.0,True,True
+COX-1,1,1,1.0,True,True
+CYP51A1,1,1,1.0,True,True
+CaM,1,1,1.0,True,True
+CaSR,1,1,1.0,True,True
+Cathepsin,1,1,1.0,True,True
+Cytokines,1,1,1.0,True,True
+DAT,1,1,1.0,True,True
+DCAF15,1,1,1.0,True,True
+DDR2,1,1,1.0,True,True
+DLL4,1,1,1.0,True,True
+DRDs,1,1,1.0,True,True
+EDB-FN,1,1,1.0,True,True
+EP4,1,1,1.0,True,True
+ERβ,1,1,1.0,True,True
+EZH2,1,1,1.0,True,True
+FAP,1,1,1.0,True,True
+FRK,1,1,1.0,True,True
+GCGR,1,1,1.0,True,True
+GDF11,1,1,1.0,True,True
+GLP-1R,1,1,1.0,True,True
+GRB2,1,1,1.0,True,True
+HER3,1,1,1.0,True,True
+HGF,1,1,1.0,True,True
+HIV-1 RT,1,1,1.0,True,True
+HPSE,1,1,1.0,True,True
+HPV E6,1,1,1.0,True,True
+HSP90,1,1,1.0,True,True
+IL-15,1,1,1.0,True,True
+IL-9,1,1,1.0,True,True
+IL2RA,1,1,1.0,True,True
+L-type calcium channel,1,1,1.0,True,True
+LOXL2,1,1,1.0,True,True
+Lewis-Y antigen,1,1,1.0,True,True
+Lipid,1,1,1.0,True,True
+MAGEC1,1,1,1.0,True,True
+MAGEC2,1,1,1.0,True,True
+MAPK11,1,1,1.0,True,True
+MDM2,1,1,1.0,True,True
+MSTN,1,1,1.0,True,True
+Melatonin receptor,1,1,1.0,True,True
+NET,1,1,1.0,True,True
+NF-κB,1,1,1.0,True,True
+NLRP3,1,1,1.0,True,True
+Nrf2,1,1,1.0,True,True
+OX40,1,1,1.0,True,True
+PAI-1,1,1,1.0,True,True
+PDE,1,1,1.0,True,True
+PDE5A,1,1,1.0,True,True
+PDK1,1,1,1.0,True,True
+PGF,1,1,1.0,True,True
+PI3K family,1,1,1.0,True,True
+PIGF,1,1,1.0,True,True
+PNP,1,1,1.0,True,True
+POLA1,1,1,1.0,True,True
+PP2A,1,1,1.0,True,True
+PPARγ,1,1,1.0,True,True
+Phosphates,1,1,1.0,True,True
+Protease,1,1,1.0,True,True
+Proton pump,1,1,1.0,True,True
+RANKL,1,1,1.0,True,True
+RBM39,1,1,1.0,True,True
+SERT,1,1,1.0,True,True
+SSTR,1,1,1.0,True,True
+SSTR1,1,1,1.0,True,True
+SSTR3,1,1,1.0,True,True
+SSTR5,1,1,1.0,True,True
+Sickle haemoglobin,1,1,1.0,True,True
+TGF-B2 mRNA,1,1,1.0,True,True
+TIM3,1,1,1.0,True,True
+TLR,1,1,1.0,True,True
+TNFR1,1,1,1.0,True,True
+TRKA,1,1,1.0,True,True
+TWEAKR,1,1,1.0,True,True
+Topoisomerase IV,1,1,1.0,True,True
+Triglyceride,1,1,1.0,True,True
+Trypsin,1,1,1.0,True,True
+WEE1,1,1,1.0,True,True
+WT1,1,1,1.0,True,True
+factor Xa,1,1,1.0,True,True
+tPA,1,1,1.0,True,True
+thymidine kinase,1,1,1.0,True,True
+vWF,1,1,1.0,True,True
+β-adrenoceptors,1,1,1.0,True,True
+AT III,1,0,0.0,True,True
+BCMA,1,0,0.0,True,True
+CCK receptor,1,0,0.0,True,True
+CD16a,1,0,0.0,True,True
+CD206,1,0,0.0,True,True
+CD3ε,1,0,0.0,True,True
+CD80,1,0,0.0,True,True
+CD86,1,0,0.0,True,True
+CXCR4,1,0,0.0,True,True
+EEF1A1,1,0,0.0,True,True
+EGFR T790M,1,0,0.0,True,True
+ETA,1,0,0.0,True,True
+ETRB,1,0,0.0,True,True
+EpCAM,1,0,0.0,True,True
+Ftase,1,0,0.0,True,True
+GC-C,1,0,0.0,True,True
+Gag-pol,1,0,0.0,True,True
+HIV-1 integrase,1,0,0.0,True,True
+IDH1,1,0,0.0,True,True
+IDO1,1,0,0.0,True,True
+IGF-1R,1,0,0.0,True,True
+KRAS G12C,1,0,0.0,True,True
+MSLN,1,0,0.0,True,True
+P2Y12 receptor,1,0,0.0,True,True
+PKCα,1,0,0.0,True,True
+ROR1,1,0,0.0,True,True
+SOD1,1,0,0.0,True,True
+TERT,1,0,0.0,True,True
+TGF-β,1,0,0.0,True,True
+TIGIT,1,0,0.0,True,True
+VISTA,1,0,0.0,True,True
+αvβ3,1,0,0.0,True,True
+γ-secretase,1,0,0.0,True,True

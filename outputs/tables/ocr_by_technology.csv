@@ -1,0 +1,46 @@
+first_specific_technology,n_resolved,n_completed,ocr,small_sample,suppressed
+Small Molecule,368,273,0.742,False,False
+Unknown,73,54,0.74,False,False
+Monoclonal Antibody,71,53,0.746,False,False
+Colony-Stimulating Factor,14,14,1.0,False,False
+Synthetic Peptide,8,6,0.75,True,True
+Radiopharmaceutical Imaging,7,5,0.714,True,True
+Imaging Agent,6,3,0.5,True,True
+Molecular glue,5,5,1.0,True,True
+Fusion Protein,5,3,0.6,True,True
+Bispecific Antibody,4,3,0.75,True,True
+Interleukin,4,3,0.75,True,True
+Antibody Drug Conjugate (ADC),4,1,0.25,True,True
+Live biotherapeutics,3,3,1.0,True,True
+Chimeric Antigen Receptor T-Cell Therapy (CAR-T),3,2,0.667,True,True
+Antisense Oligonucleotide (ASO),2,2,1.0,True,True
+DNA Oligonucleotide Therapy,2,2,1.0,True,True
+Gene Transfer Therapy,2,2,1.0,True,True
+Immunoglobulin,2,2,1.0,True,True
+Interferon,2,2,1.0,True,True
+Antibody Radiopharmaceutical,2,1,0.5,True,True
+DNA vaccine,2,1,0.5,True,True
+Hormone,2,1,0.5,True,True
+Vaccine Adjuvant,2,1,0.5,True,True
+Oncolytic Bacteria,2,0,0.0,True,True
+Antibody,1,1,1.0,True,True
+Antibody Fragment Drug Conjugate,1,1,1.0,True,True
+Cell Therapy,1,1,1.0,True,True
+Cytokine Fusion Protein (Immunocytokine),1,1,1.0,True,True
+Enzyme,1,1,1.0,True,True
+Herbal/Traditional Chinese Medicine,1,1,1.0,True,True
+Oligonucleotide Therapy,1,1,1.0,True,True
+Radiopharmaceutical,1,1,1.0,True,True
+Radiopharmaceutical Therapy,1,1,1.0,True,True
+Subunit Vaccine,1,1,1.0,True,True
+Toxin Fusion Protein (Immunotoxin),1,1,1.0,True,True
+Bispecific T-Cell Engager,1,0,0.0,True,True
+Chimeric Antigen Receptor Gamma Delta (Î³Î´) T-Cell Therapy (CAR-Î³Î´T),1,0,0.0,True,True
+Chimeric Antigen Receptor NK-Cell Therapy (CAR-NK),1,0,0.0,True,True
+Mesenchymal Stem Cell Therapy (MSCs),1,0,0.0,True,True
+Oncolytic Virus,1,0,0.0,True,True
+Small Interfering RNA (siRNA),1,0,0.0,True,True
+Synthetic Peptide Drug Conjugate,1,0,0.0,True,True
+T-Cell Replacement Therapy,1,0,0.0,True,True
+Tetraspecific Antibody,1,0,0.0,True,True
+mRNA,1,0,0.0,True,True
